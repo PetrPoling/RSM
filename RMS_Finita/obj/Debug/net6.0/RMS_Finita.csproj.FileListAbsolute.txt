@@ -1,0 +1,17 @@
+D:\Git Hub\Homework\RMS_Finita\bin\Debug\net6.0\RMS_Finita.exe
+D:\Git Hub\Homework\RMS_Finita\bin\Debug\net6.0\RMS_Finita.deps.json
+D:\Git Hub\Homework\RMS_Finita\bin\Debug\net6.0\RMS_Finita.runtimeconfig.json
+D:\Git Hub\Homework\RMS_Finita\bin\Debug\net6.0\RMS_Finita.dll
+D:\Git Hub\Homework\RMS_Finita\bin\Debug\net6.0\RMS_Finita.pdb
+D:\Git Hub\Homework\RMS_Finita\obj\Debug\net6.0\RMS_Finita.csproj.AssemblyReference.cache
+D:\Git Hub\Homework\RMS_Finita\obj\Debug\net6.0\RMS_Finita.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub\Homework\RMS_Finita\obj\Debug\net6.0\RMS_Finita.AssemblyInfoInputs.cache
+D:\Git Hub\Homework\RMS_Finita\obj\Debug\net6.0\RMS_Finita.AssemblyInfo.cs
+D:\Git Hub\Homework\RMS_Finita\obj\Debug\net6.0\RMS_Finita.csproj.CoreCompileInputs.cache
+D:\Git Hub\Homework\RMS_Finita\obj\Debug\net6.0\RMS_Finita.dll
+D:\Git Hub\Homework\RMS_Finita\obj\Debug\net6.0\refint\RMS_Finita.dll
+D:\Git Hub\Homework\RMS_Finita\obj\Debug\net6.0\RMS_Finita.pdb
+D:\Git Hub\Homework\RMS_Finita\obj\Debug\net6.0\RMS_Finita.genruntimeconfig.cache
+D:\Git Hub\Homework\RMS_Finita\obj\Debug\net6.0\ref\RMS_Finita.dll
+D:\Git Hub\Homework\RMS_Finita\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Git Hub\Homework\RMS_Finita\obj\Debug\net6.0\RMS_Finita.csproj.CopyComplete
